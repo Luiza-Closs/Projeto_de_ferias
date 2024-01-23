@@ -20,9 +20,3 @@
     background-color: #565c5b;
     height: 73.5vh;
 }
-
-/* Dentro do main */
-.cardzin{
-    background: rgb(109,218,242);
-    background: linear-gradient(0deg, rgba(109,218,242,1) 0%, rgba(191,209,213,1) 54%);
-}
