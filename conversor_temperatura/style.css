@@ -1,0 +1,22 @@
+/*Header*/
+.cabecinha{
+    background: rgb(109,218,242);
+    background: linear-gradient(90deg, rgba(109,218,242,1) 0%, rgba(242,213,126,1) 53%, rgba(242,178,141,1) 100%);
+}
+.branquinho{
+    color: #ffffff;
+    margin-left: 2vw;
+}
+/*Footer*/
+.pesinho{
+    background: rgb(109,218,242);
+    background: linear-gradient(90deg, rgba(109,218,242,1) 0%, rgba(242,213,126,1) 53%, rgba(242,178,141,1) 100%);
+}
+.linkzin{
+    margin-right: 2vw;
+}
+
+.main{
+    background-color: #565c5b;
+    height: 73.5vh;
+}
