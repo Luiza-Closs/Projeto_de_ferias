@@ -13,8 +13,15 @@ for (let i = 0; i < inputs.length; i++) {
         switch (e.target.name) {
             case "descimal":
                 console.log(value)
-                let binarionum = value.toString(2)
-                binarioInput.value = binarionum;
+                let binarionum = value.toString(2);
+                let zeros = ""
+                if(binarionum.length < 8){
+                    let digit = 8 - binarionum.length 
+                    for(let i = 0; i< digit; i++ ){
+                        zeros += "0"
+                    }
+                }
+                binarioInput.value = zeros + binarionum;
                 break;
             case "binario":
                 console.log(value)
