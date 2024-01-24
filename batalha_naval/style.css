@@ -21,8 +21,13 @@
     height: 73.5vh;
 }
 
-/* Dentro do main */
-.cardzin{
-    background: rgb(109,218,242);
-    background: linear-gradient(0deg, rgba(109,218,242,1) 0%, rgba(147,209,223,1) 24%, rgba(191,209,213,1) 73%);
+/* Jogo */
+
+.btn{
+    background-color: #6A8C1F;
+    color: #ffffff;
+}
+.btn:hover{
+    background-color: #F2C12E;
+    color: #ffffff;
 }
