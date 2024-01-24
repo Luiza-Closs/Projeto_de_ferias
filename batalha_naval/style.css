@@ -31,3 +31,9 @@
     background-color: #F2C12E;
     color: #ffffff;
 }
+
+.cell{
+    background-color: aqua;
+    height: 3vh;
+    margin: 2px;
+}
